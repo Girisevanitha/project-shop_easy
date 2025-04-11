@@ -1,5 +1,6 @@
 # project-shop_easy
 customer behavior analysis
+
 📌 Project Overview:
 Aims to analyze customer behavior across their journey using SQL and Python and how customers interact with products, content, and platforms etc.
 
